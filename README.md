@@ -2,6 +2,7 @@
 
 <p id="description">This repository demonstrates how to deploy a Spring Boot application to Amazon EKS (Elastic Kubernetes Service) using Terraform for infrastructure management Amazon ECR (Elastic Container Registry) for container image storage and GitHub Actions for CI/CD (Continuous Integration/Continuous Deployment) automation. The project aims to create a scalable efficient and manageable infrastructure for deploying containerized Spring Boot applications.</p>
 
+
 <br>
 <h2>Project Screenshots:</h2>
 
